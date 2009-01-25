@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {2}{Wprowadzenie}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Na pocz\IeC {\k a}tku by\IeC {\l } Rubytime}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{Rodzi si\IeC {\k e} "konkurencja"}{8}{0}{1}
+\beamer@subsectionintoc {2}{3}{Rubytime 3}{11}{0}{1}
+\beamer@subsectionintoc {2}{4}{I ponownie Rails}{14}{0}{1}
+\beamer@sectionintoc {3}{Merb}{16}{0}{2}
+\beamer@subsectionintoc {3}{1}{Za\IeC {\l }o\IeC {\.z}enia Merba}{17}{0}{2}
+\beamer@subsectionintoc {3}{2}{Router}{23}{0}{2}
+\beamer@subsectionintoc {3}{3}{Kontrolery}{24}{0}{2}
+\beamer@subsectionintoc {3}{4}{Slices}{29}{0}{2}
+\beamer@subsectionintoc {3}{5}{Parts}{32}{0}{2}
+\beamer@sectionintoc {4}{Skutki po\IeC {\l }\IeC {\k a}czenia Merb z Rails}{32}{0}{3}
+\beamer@subsectionintoc {4}{1}{Na plus}{33}{0}{3}
+\beamer@subsectionintoc {4}{2}{Na minus}{35}{0}{3}
+\beamer@sectionintoc {5}{The End}{36}{0}{4}
